@@ -1,0 +1,88 @@
+2024-11-07 03:11:45 - Usuário não encontrado: 
+2024-11-07 03:14:57 - Usuário não encontrado: 
+2024-11-07 03:17:55 - Usuário não encontrado: 
+2024-11-07 03:18:27 - Tentativa de login para o usuário: vitoraparecido209
+2024-11-07 03:18:27 - Senha incorreta para o usuário: vitoraparecido209
+2024-11-07 03:18:46 - Tentativa de login para o usuário: vitoraparecido209
+2024-11-07 03:18:46 - Senha incorreta para o usuário: vitoraparecido209
+2024-11-07 03:21:43 - Tentativa de login para o usuário: vitoraparecido209
+2024-11-07 03:21:43 - Senha incorreta para o usuário: vitoraparecido209
+2024-11-07 03:23:42 - Tentativa de login para o usuário: vitoraparecido209
+2024-11-07 03:23:42 - Senha informada: vitor123
+2024-11-07 03:23:42 - Senha armazenada no banco (truncada): vitor123...
+2024-11-07 03:23:42 - Senha incorreta para o usuário: vitoraparecido209
+2024-11-07 03:23:59 - Tentativa de login para o usuário: vitoraparecido209
+2024-11-07 03:23:59 - Senha informada: vitor123
+2024-11-07 03:23:59 - Senha armazenada no banco (truncada): vitor123...
+2024-11-07 03:23:59 - Senha incorreta para o usuário: vitoraparecido209
+2024-11-07 03:24:39 - Tentativa de login para o usuário: vitoraparecido209
+2024-11-07 03:24:39 - Senha informada: vitor123
+2024-11-07 03:24:39 - Senha armazenada no banco (truncada): vitor123...
+2024-11-07 03:24:39 - Senha incorreta para o usuário: vitor123
+2024-11-07 03:26:43 - Tentativa de login para o usuário: vitoraparecido209
+2024-11-07 03:26:43 - Senha informada: vitor123
+2024-11-07 03:26:43 - Senha armazenada no banco (truncada): vitor123...
+2024-11-07 03:26:43 - Senha incorreta para o usuário: vitor123
+2024-11-07 03:26:57 - Tentativa de login para o usuário: vitoraparecido209
+2024-11-07 03:26:57 - Senha informada: vitor123
+2024-11-07 03:26:57 - Senha armazenada no banco (truncada): vitor123...
+2024-11-07 03:26:57 - Senha incorreta para o usuário: vitor123
+2024-11-07 03:28:44 - Tentativa de login para o usuário: vitoraparecido209
+2024-11-07 03:28:44 - Senha incorreta para o usuário: vitoraparecido209
+2024-11-07 03:28:49 - Tentativa de login para o usuário: vitoraparecido209
+2024-11-07 03:28:49 - Senha incorreta para o usuário: vitoraparecido209
+2024-11-07 03:50:38 - Tentativa de login para o usuário: vitoraparecido209
+2024-11-07 03:50:38 - Login bem-sucedido para o usuário: vitoraparecido209
+2024-11-07 03:53:04 - Tentativa de login para o usuário: vitoraparecido209
+2024-11-07 03:58:45 - Tentativa de login para o usuário: vitoraparecido209
+2024-11-07 04:17:28 - Tentativa de login para o usuário: vitoraparecido209
+2024-11-07 04:20:17 - Tentativa de login para o usuário: vitoraparecido209
+2024-11-07 04:26:16 - Tentativa de login para o usuário: vitoraparecido209
+2024-11-07 12:16:35 - Tentativa de login para o usuário: vitoraparecido419
+2024-11-07 14:20:49 - Tentativa de login para o usuário: vitoraparecido999
+2024-11-08 00:39:45 - Tentativa de login para o usuário: buffon706
+2024-11-11 06:38:10 - Tentativa de login para o usuário: hospitaltiradentes383
+2024-11-11 06:38:10 - Senha incorreta para o usuário: hospitaltiradentes383
+2024-11-11 06:38:16 - Tentativa de login para o usuário: hospitaltiradentes383
+2024-11-11 06:38:16 - Senha incorreta para o usuário: hospitaltiradentes383
+2024-11-11 06:39:16 - Tentativa de login para o usuário: hospitaltiradentes383
+2024-11-11 06:40:09 - Tentativa de login para o usuário: hospitaltiradentes383
+2024-11-11 06:59:34 - Usuário não encontrado: danielldino10@gmail.com
+2024-11-11 06:59:51 - Tentativa de login para o usuário: hospitaltiradentes383
+2024-11-11 18:56:55 - Tentativa de login para o usuário: hospitallulu943
+2024-11-11 18:56:55 - Senha incorreta para o usuário: hospitallulu943
+2024-11-11 18:57:12 - Tentativa de login para o usuário: hospitallulu943
+2024-11-11 18:57:12 - Senha incorreta para o usuário: hospitallulu943
+2024-11-11 18:59:41 - Tentativa de login para o usuário: hospitallulu253
+2024-11-11 18:59:41 - Senha incorreta para o usuário: hospitallulu253
+2024-11-11 19:03:11 - Tentativa de login para o usuário: hospitallulu988
+2024-11-11 19:03:11 - Senha incorreta para o usuário: hospitallulu988
+2024-11-11 19:25:07 - Tentativa de login para o usuário: hospitallulu988
+2024-11-11 19:25:07 - Senha incorreta para o usuário: hospitallulu988
+2024-11-11 19:50:23 - Tentativa de login para o usuário: hospitallulu337
+2024-11-11 19:50:23 - Senha incorreta para o usuário: hospitallulu337
+2024-11-11 19:51:29 - Tentativa de login para o usuário: hospitallulu337
+2024-11-11 19:51:29 - Senha incorreta para o usuário: hospitallulu337
+2024-11-11 20:03:25 - Tentativa de login para o usuário: hospitallulu496
+2024-11-11 20:14:24 - Tentativa de login para o usuário: hospitalcidadetiradentes340
+2024-11-11 20:14:50 - Tentativa de login para o usuário: hospitalcidadetiradentes340
+2024-11-11 20:15:46 - Tentativa de login para o usuário: hospitalcidadetiradentes340
+2024-11-11 22:20:54 - Tentativa de login para o usuário: hospitalcidadetiradentes205
+2024-11-13 03:25:34 - Tentativa de login para o usuário: sammy471
+2024-11-13 03:45:10 - Tentativa de login para o usuário: sammy471
+2024-11-13 03:54:58 - Tentativa de login para o usuário: sammy471
+2024-11-13 11:43:06 - Tentativa de login para o usuário: sammy471
+2024-11-13 11:43:07 - Senha incorreta para o usuário: sammy471
+2024-11-13 11:43:13 - Tentativa de login para o usuário: sammy471
+2024-11-13 11:54:06 - Tentativa de login para o usuário: roginer798
+2024-11-15 15:52:53 - Tentativa de login para o usuário: sammy471
+2024-11-15 15:52:53 - Senha incorreta para o usuário: sammy471
+2024-11-15 15:56:03 - Tentativa de login para o usuário: luiz500
+2024-11-15 17:41:48 - Tentativa de login para o usuário: luiz500
+2024-11-15 21:20:57 - Tentativa de login para o usuário: luiz500
+2024-11-15 22:58:09 - Tentativa de login para o usuário: luiz500
+2024-11-16 15:16:04 - Tentativa de login para o usuário: luiz500
+2024-11-17 00:06:26 - Tentativa de login para o usuário: luiz500
+2024-11-17 00:12:33 - Tentativa de login para o usuário: luiz500
+2024-11-17 01:17:25 - Tentativa de login para o usuário: luiz500
+2024-11-17 03:43:49 - Tentativa de login para o usuário: luiz500

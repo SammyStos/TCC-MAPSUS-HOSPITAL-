@@ -1,0 +1,186 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    color: #628A4C; /* Cor de texto principal */
+    line-height: 1.6;
+    min-height: 100vh;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 30px;
+    background-color: white;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); /* Sombra mais intensa */
+    position: relative;
+    z-index: 100;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo img {
+    height: 60px; /* Aumente o tamanho da logo aqui */
+    margin-right: 15px;
+    user-select: none;
+}
+
+.logo span {
+    font-size: 26px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    color: #628A4C; /* Tom neutro atualizado */
+    user-select: none;
+}
+
+.nav-buttons {
+    display: flex;
+    margin-left: auto;
+    padding-right: 20px;
+    gap: 10px; /* Ajuste o valor para o espaÃ§amento desejado */
+}
+
+.nav-buttons .btn {
+    background-color: #628A4C; /* BotÃ£o em verde escuro */
+    border: 2px solid transparent;
+    padding: 8px 18px;
+    color: white;
+    cursor: pointer;
+    font-size: 14px;
+    border-radius: 25px;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    font-family: 'Poppins', sans-serif;
+}
+
+.nav-buttons .btn:hover {
+    background-color: #6e6b6e;
+}
+
+
+/* Responsividade */
+@media (max-width: 768px) {
+    .navbar {
+        flex-direction: column;
+        padding: 20px 20px;
+    }
+
+    .nav-buttons {
+        margin-top: 10px;
+        justify-content: center;
+    }
+
+    .logo {
+        margin-bottom: 10px;
+    }
+}
+
+.main-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 80px 50px;
+    flex-wrap: wrap;
+}
+
+.text-section {
+    flex: 1;
+    text-align: left;
+    margin-top: 50px;
+    padding-right: 20px; /* EspaÃ§o entre o texto e a imagem */
+}
+
+.text-section h1 {
+    font-size: 41px;
+    margin-bottom: 25px;
+    font-family: 'Poppins', sans-serif;
+    color: #628A4C; /* Cor atualizada */
+}
+
+.text-section p {
+    font-size: 20px;
+    margin-bottom: 30px;
+    font-family: 'Roboto', sans-serif;
+    color: #495057;
+}
+
+.text-section a {
+    color: #628A4C; /* Link com cor verde */
+    text-decoration: underline;
+    transition: color 0.3s ease;
+}
+
+.text-section a:hover {
+    color: #353535;
+}
+
+.cta-buttons {
+    display: flex;
+    justify-content: flex-start;
+    gap: 15px;
+}
+
+.cta-buttons .cta-btn {
+    background: linear-gradient(to right, #353535, #628A4C); /* Gradiente atualizado */
+    border: none;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    border-radius: 25px;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    color: white;
+    box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.15);
+}
+
+.cta-btn:hover {
+    background: linear-gradient(to right, #628A4C, #353535);
+    transform: scale(1.1);
+}
+
+.image-section {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.image-section img {
+    width: 100%;
+    height: auto;
+    max-height: 545px;
+    border-radius: 20px;
+    transition: transform 0.5s ease, filter 0.5s ease;
+    object-fit: cover; /* Garante que a imagem preencha a Ã¡rea sem distorÃ§Ã£o */
+}
+
+@media (max-width: 768px) {
+    .main-section {
+        flex-direction: column;
+        padding: 20px;
+    }
+
+    .image-section img {
+        max-height: 300px;
+    }
+}
+
+footer {
+    text-align: center;
+    padding: 25px;
+    background-color: white;
+    color: #628A4C; /* Cor atualizada no rodapÃ© */
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    box-shadow: 0 -2px 12px rgba(0, 0, 0, 0.1);
+}
